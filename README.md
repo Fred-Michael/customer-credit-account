@@ -8,7 +8,8 @@ In the project directory, you can run:
 
 ### `npm start`
 
-## This project makes use of Dayjs to simplify working with Date inputs
+### This project makes use of:
+- Dayjs (to simplify working with Date inputs)
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
