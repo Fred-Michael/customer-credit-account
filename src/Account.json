@@ -1,0 +1,157 @@
+{
+  "brandName": "TestBank",
+  "dataSourceName": "TestDataSource",
+  "dataSourceType": "CredentialSharing",
+  "requestDateTime": "2019-04-13T14:08:12Z",
+  "accounts": [
+    {
+      "accountId": "10473770",
+      "currencyCode": "GBP",
+      "displayName": "Current Account",
+      "accountType": "Personal",
+      "accountSubType": "CurrentAccount",
+      "identifiers": {
+        "sortCode": "122101706",
+        "accountNumber": "xxxx1484",
+        "secondaryIdentification": null
+      },
+      "parties": [],
+      "standingOrders": [],
+      "directDebits": [],
+      "balances": {
+        "current": {
+          "amount": 100,
+          "creditDebitIndicator": "Credit",
+          "creditLines": null
+        },
+        "available": {
+          "amount": 100,
+          "creditDebitIndicator": "Credit",
+          "creditLines": null
+        }
+      },
+      "transactions": [
+        {
+          "description": "MIICARD LTD , MIICARD LTD , FP 31/07/14 1409 , XXXXXXXXXXXXXXXX01 - BAC",
+          "amount": 57,
+          "creditDebitIndicator": "Credit",
+          "status": "Booked",
+          "bookingDate": "2019-04-12T00:00:00Z",
+          "merchantDetails": null
+        },
+        {
+          "description": "ENJOY EDINBURGH - D/D",
+          "amount": 52,
+          "creditDebitIndicator": "Debit",
+          "status": "Booked",
+          "bookingDate": "2019-04-12T00:00:00Z",
+          "merchantDetails": null
+        },
+        {
+          "description": "SAINSBURYS 02AUG - C/L",
+          "amount": 81,
+          "creditDebitIndicator": "Debit",
+          "status": "Booked",
+          "bookingDate": "2019-04-11T00:00:00Z",
+          "merchantDetails": null
+        },
+        {
+          "description": "BARCLAYS MORTGAGES - D/D",
+          "amount": 76,
+          "creditDebitIndicator": "Debit",
+          "status": "Booked",
+          "bookingDate": "2019-04-10T00:00:00Z",
+          "merchantDetails": null
+        },
+        {
+          "description": "9830 31JULXX , SAINSBURYS S/MKTS , EDINBURGH, WE GB - POS",
+          "amount": 83,
+          "creditDebitIndicator": "Debit",
+          "status": "Booked",
+          "bookingDate": "2019-04-10T00:00:00Z",
+          "merchantDetails": null
+        },
+        {
+          "description": "SCOTTISHPOWER - D/D",
+          "amount": 13,
+          "creditDebitIndicator": "Debit",
+          "status": "Booked",
+          "bookingDate": "2019-04-10T00:00:00Z",
+          "merchantDetails": null
+        },
+        {
+          "description": "SAINSBURYS 02AUG - C/L",
+          "amount": 34,
+          "creditDebitIndicator": "Debit",
+          "status": "Booked",
+          "bookingDate": "2019-04-09T00:00:00Z",
+          "merchantDetails": null
+        },
+        {
+          "description": "BARCLAYS MORTGAGES - D/D",
+          "amount": 16,
+          "creditDebitIndicator": "Debit",
+          "status": "Booked",
+          "bookingDate": "2019-04-09T00:00:00Z",
+          "merchantDetails": null
+        },
+        {
+          "description": "9830 31JULXX , SAINSBURYS S/MKTS , EDINBURGH, WE GB - POS",
+          "amount": 74,
+          "creditDebitIndicator": "Debit",
+          "status": "Booked",
+          "bookingDate": "2019-04-08T00:00:00Z",
+          "merchantDetails": null
+        },
+        {
+          "description": "2940 18AUG14 , OUTFIT , EDINBURGH GB , REFUND - POS",
+          "amount": 27,
+          "creditDebitIndicator": "Credit",
+          "status": "Booked",
+          "bookingDate": "2019-04-08T00:00:00Z",
+          "merchantDetails": null
+        },
+        {
+          "description": "9830 31JULXX , SAINSBURYS S/MKTS , EDINBURGH, WE GB - POS",
+          "amount": 20,
+          "creditDebitIndicator": "Debit",
+          "status": "Booked",
+          "bookingDate": "2019-04-08T00:00:00Z",
+          "merchantDetails": null
+        },
+        {
+          "description": "MIICARD LTD , MIICARD LTD , FP 31/07/14 1409 , XXXXXXXXXXXXXXXX01 - BAC",
+          "amount": 44,
+          "creditDebitIndicator": "Credit",
+          "status": "Booked",
+          "bookingDate": "2019-04-08T00:00:00Z",
+          "merchantDetails": null
+        },
+        {
+          "description": "2940 31JULXX , JJW HOTELS & RESOR, XXXXXXX5859 GB - POS",
+          "amount": 7,
+          "creditDebitIndicator": "Debit",
+          "status": "Booked",
+          "bookingDate": "2019-04-07T00:00:00Z",
+          "merchantDetails": null
+        },
+        {
+          "description": "Deposit - Thank You",
+          "amount": 99,
+          "creditDebitIndicator": "Credit",
+          "status": "Booked",
+          "bookingDate": "2019-04-07T00:00:00Z",
+          "merchantDetails": null
+        },
+        {
+          "description": "XXXX09 - C/R",
+          "amount": 1,
+          "creditDebitIndicator": "Credit",
+          "status": "Booked",
+          "bookingDate": "2019-04-07T00:00:00Z",
+          "merchantDetails": null
+        }
+      ]
+    }
+  ]
+}
